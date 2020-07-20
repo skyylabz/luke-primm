@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.5.1//EN
+N:Primm;Luke;;;
+FN:Luke Primm
+ORG:KL Installation;
+EMAIL;type=INTERNET;type=HOME;type=pref:luke@floor-it.net
+TEL;type=HOME;type=VOICE;type=pref:(404) 702-0351
+TEL;type=WORK;type=VOICE:(770) 445-2880
+item1.ADR;type=HOME;type=pref:;;3544 Atlanta Highway;Dallas;GA;30132;United States
+item1.X-ABADR:us
+END:VCARD
